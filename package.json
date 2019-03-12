@@ -7,6 +7,7 @@
   "author": "5tarlight <developerstarlight@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^11.4.2"
+    "discord.js": "^11.4.2",
+    "rich-embed": "^1.0.1"
   }
 }

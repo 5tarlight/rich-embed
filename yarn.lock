@@ -28,6 +28,13 @@ prism-media@^0.0.3:
   resolved "https://registry.yarnpkg.com/prism-media/-/prism-media-0.0.3.tgz#8842d4fae804f099d3b48a9a38e3c2bab6f4855b"
   integrity sha512-c9KkNifSMU/iXT8FFTaBwBMr+rdVcN+H/uNv1o+CuFeTThNZNTOrQ+RgXA1yL/DeLk098duAeRPP3QNPNbhxYQ==
 
+rich-embed@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/rich-embed/-/rich-embed-1.0.1.tgz#5f689dbd9683dd8fcd2d06b39a041408f1a2d0bc"
+  integrity sha512-8svueq8zMl57Dn/7BgJsF6uc7C6SVDc1zLutT3p9Xo1NqWOnd0CkSvgEj2ddG7P2MK4C2f7m/vptLl/Xud1ktQ==
+  dependencies:
+    discord.js "^11.4.2"
+
 safe-buffer@~5.1.0:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.1.2.tgz#991ec69d296e0313747d59bdfd2b745c35f8828d"
